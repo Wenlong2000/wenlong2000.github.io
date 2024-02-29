@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, welcome to my homepage! I am Wenlong Ji, a second-year Ph.D. student at the [Department of Statistics](https://statistics.stanford.edu/), at Stanford University. Previously, I received my bachelor's degree from the [School of Mathematical Sciences](https://www.math.pku.edu.cn/) at Peking University. During my undergraduate study, I am fortunate to work with Prof. [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/), Prof. [Weijie Su](http://stat.wharton.upenn.edu/~suw/), Prof. [Lingjun Zhang](https://linjunz.github.io/), and Prof. [James Zou](https://www.james-zou.com/).
 
-My research interest broadly lies in statistics, machine learning, and economics, focusing on establishing the theoretical foundation and developing statistical tools for real-world problems. Currently, I am working on understanding large language models, data selection for machine learning, and regression adjustment for causal inference. If you are interested in any of my research or want to collaborate with me, please feel free to contact me! 
+My research interest broadly lies in statistics, machine learning, and economics, focusing on establishing the theoretical foundation and developing statistical tools for real-world problems. Currently, I am working on understanding large language models, data selection for machine learning, and regression adjustment for causal inference. If you are interested in any of my research or want to collaborate with me, please feel free to reach out! 
 
 
 Research Papers
