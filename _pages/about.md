@@ -15,7 +15,7 @@ My research interest broadly lies in statistics, machine learning, and economics
 Research Papers
 ======
 (* indicates equal contribution)
-1. Ian Covert\*, **Wenlong Ji**\*, Tatsunori Hashimoto, James Zou. Scaling Laws for the Value of Individual Data Points in Machine Learning. Under review.
+1. Ian Covert\*, **Wenlong Ji**\*, Tatsunori Hashimoto, James Zou. Scaling Laws for the Value of Individual Data Points in Machine Learning. (ICML 2024).
 2. **Wenlong Ji**\*, Lihua Lei\*, Asher Spector\*. Model-Agnostic Covariate-Assisted Inference on Partially Identified Causal Effects. arXiv preprint arXiv:2310.08115, 2023. In preparation for submission to Econometrica. [link](https://arxiv.org/abs/2310.08115)
 3. Ryumei Nakada, Halil Ibrahim Gulluk, Zhun Deng, **Wenlong Ji**, James Zou, Linjun Zhang. Understanding multimodal contrastive learning and incorporating unpaired data. (AISTATS 2023). [link](https://proceedings.mlr.press/v206/nakada23a/nakada23a.pdf)
 4. Yiping Lu, **Wenlong Ji**, Zachary Izzo, Lexing Ying. Importance Tempering: Group Robustness for Overparameterized Models. arXiv preprint arXiv:2209.08745, 2022. Under review. [link](https://arxiv.org/pdf/2209.08745.pdf)
